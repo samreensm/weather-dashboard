@@ -21,15 +21,16 @@ A beginner-friendly Streamlit app that displays real-time weather data using the
 To run this project on your local machine:
 
 1. **Clone the repository**
-   git clone https://github.com/yourusername/weather-dashboard.git
+   git clone: https://github.com/yourusername/weather-dashboard.git
    cd weather-dashboard
-2. Install the required libraries
+3. Install the required libraries
 pip install streamlit requests python-dotenv
-3. Create a .env file in the root folder and add your API key:
+4. Create a .env file in the root folder and add your API key:
 WEATHER_API_KEY=your_actual_api_key_here
 
 ▶️ Run the App
 Start the Streamlit app with:streamlit run app.py
+
 The dashboard will open in your browser automatically.
 
 
