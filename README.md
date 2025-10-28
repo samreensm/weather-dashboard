@@ -22,6 +22,7 @@ To run this project on your local machine:
 
 1. **Clone the repository**
    git clone: https://github.com/yourusername/weather-dashboard.git
+   
    cd weather-dashboard
 3. Install the required libraries
 pip install streamlit requests python-dotenv
